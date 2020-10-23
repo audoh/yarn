@@ -23,7 +23,6 @@
 /resources
 /scripts
 /coverage
-/dist
 /dist-debug
 /__tests__
 .vs
